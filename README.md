@@ -8,7 +8,7 @@ The exercise tracking app is a web app built using Node.js and React.js. It allo
 4. After any action is sent the homepage is reloaded to display the most up to date information to the user.
 
 ### Technologies Used:
-Server - Node.js and Express.js
-Client - React.js
-Database - MongoDB
+* Server - Node.js and Express.js
+* Client - React.js
+* Database - MongoDB
 
